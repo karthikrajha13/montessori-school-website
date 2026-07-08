@@ -1256,6 +1256,11 @@ footer i {
 @media (max-width: 576px) {
   .award-img {
     height: 150px;
+    width:100%;
+  }
+
+  .award-btn{
+    visibility:hidden;
   }
   .video-card img {
     height: 220px;
